@@ -1,7 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import { NavBar } from './Components/NavBar';
-import { AnimatedRoutes } from './Components/AnimatedRoutes';
 import ParticlesComponent from './Components/particles';
 import { HomePage } from './Pages/HomePage';
 import { SkillsPage } from './Pages/SkillsPage';
